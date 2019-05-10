@@ -7,6 +7,11 @@ Purpose: To display a report based on the info from Customer2.csv
 *******************************************************************************
 */
 
+/*----------------------------------------------------------------------------
+	FEEDBACK FROM INSTRUCTOR:
+	Excellent work, Sarah.  Thanks for sticking with this.
+-----------------------------------------------------------------------------*/
+
 import java.io.*;
 import javax.swing.*;
 import java.util.Scanner;
